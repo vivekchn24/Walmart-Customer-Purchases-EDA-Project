@@ -10,7 +10,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a dataset 
 ## **📂 Walmart-Customer-Purchases-Data-Analysis-EDA-Project Folder Contains**
 
 - WALMART_CUSTOMER_PURCHASES_DATA_ANALYSIS_EDA_PROJECT_VIVEK_CHAUHAN (Jupyter Notebook Code Pdf File)
-- ZWALMART_CUSTOMER_PURCHASES_EDA_PROJECT_VIVEK_CHAUHAN (PowerPoint Presentation Slides Pdf File)
+- WALMART_CUSTOMER_PURCHASES_EDA_PROJECT_VIVEK_CHAUHAN (PowerPoint Presentation Slides Pdf File)
 - DATA CSV FOLDER CONTAINS ORIGINAL DATASET
 
 ## **📌 Key Objectives :-**
