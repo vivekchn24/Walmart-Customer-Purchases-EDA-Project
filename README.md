@@ -4,8 +4,8 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a dataset 
 ## **-->> 📁 Dataset**
 
 - ""Source"": Walmart Customer Purchases public dataset (Downloaded from Kaggle / official source )
-- ""Rows"": Aprrox 50,000+
-- ""Columns"": 17+ (various Restaurants & Restaurants Types,Payment details,etc.)
+- ""Rows"": Aprrox 49,000+
+- ""Columns"": 11+ (various Product-Names & Product-Types,Payment details,etc.)
 
 ## **-->> 📂 Walmart-Customer-Purchases-Data-Analysis-EDA-Project Folder Contains**
 
@@ -15,8 +15,8 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a dataset 
 
 ## **📌 Key Objectives :-**
 
-- Cleaned and structured the dataset to handle missing values and inconsistencies
-- Analyzed customer demographics including gender, age group, marital status, and occupation
+- Cleaned and structured the dataset to handle missing values and inconsistencies if any
+- Analyzed customer demographics including gender, age group, Repeat-Customers, Discounts-Appied or Not
 - Explored purchasing patterns based on product categories, city tiers, and purchase amount
 - Created clear and insightful visualizations to understand the distribution of spending and customer segments
 
@@ -36,10 +36,10 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a dataset 
    - Formatting and type conversion
 
 2. Univariate Analysis
-   - Distributions of loan amount, interest rates, term, grades
+   - Count of the product-Names,Date/Month/Year-Wise-Product-Purchases etc.
 
 3. Bivariate Analysis
-   - Loan status vs interest rate, loan purpose, etc.
+   - Gender/Product-Category,Product-Amount Wise Purchases etc.
 
 4. Multivariate Analysis
    - Correlation heatmaps
@@ -52,3 +52,32 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a dataset 
 ## **🎯 Outcome:**
 
 - This project helped reinforce skills in data preprocessing, visualization, and business insight extraction — providing a solid foundation for real-world retail analytics.
+
+## **✅ Walmart EDA Project – Key Recommendations:-**
+
+1.Target Adults & “Other” Gender – Highest purchase group, run personalized
+offers.
+
+2.Boost Electronics & Smartphone Sales – Expand variety, offer combos (e.g.,
+phone + headphone).
+
+3.Focus on Teenagers for Electronics – Use social media + student discounts.
+
+4.Promote Debit Cards & UPI – Offer cashback; UPI highest in 2025 &
+November.
+
+5.Saturday = Sales Day – Plan major campaigns and offers on Saturdays.
+
+6.Support Repeat Customers – Launch a loyalty rewards program.
+
+7.Improve Ratings – Investigate 1-star feedback, upgrade service to turn 4★ into 5★.
+
+8.Increase Purchase Amount – Push combo deals to cross ₹500 mark.
+
+9.Fix Low Sales in Feb & 31st – Run end-of-month or Valentine’s offers.
+
+## **📌 Disclaimer:**
+
+-This EDA project is created purely for learning and practice purposes; hence, I’ve shared only the PDF versions of the Jupyter Notebook and PowerPoint to maintain originality and avoid direct copy-paste.
+
+-⭐ This EDA project was completed as part of my data analytics training/Journey And the EDA Project Done At <a href="https://futurevisioncomputers.com/">Future Vision Computer Institute</a>,Surat.
