@@ -1,13 +1,13 @@
 # Walmart-Customer-Purchases-EDA-Project
 This project focuses on performing Exploratory Data Analysis (EDA) on a dataset containing customer purchase records from Walmart. The goal is to extract meaningful insights about customer behavior, sales trends, and product preferences to support data-driven decision-making.
 
-## **-->> 📁 Dataset**
+## **📁 Dataset**
 
 - ""Source"": Walmart Customer Purchases public dataset (Downloaded from Kaggle / official source )
 - ""Rows"": Aprrox 49,000+
 - ""Columns"": 11+ (various Product-Names & Product-Types,Payment details,etc.)
 
-## **-->> 📂 Walmart-Customer-Purchases-Data-Analysis-EDA-Project Folder Contains**
+## **📂 Walmart-Customer-Purchases-Data-Analysis-EDA-Project Folder Contains**
 
 - WALMART_CUSTOMER_PURCHASES_DATA_ANALYSIS_EDA_PROJECT_VIVEK_CHAUHAN (Jupyter Notebook Code Pdf File)
 - ZWALMART_CUSTOMER_PURCHASES_EDA_PROJECT_VIVEK_CHAUHAN (PowerPoint Presentation Slides Pdf File)
